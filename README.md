@@ -31,9 +31,10 @@
 **Tech Stack:** Python, TensorFlow, Keras, Pandas, Matplotlib, NumPy, LSTM  
 ✔️ Trained **LSTM-based chatbot** for context-aware responses.  
 
-### 😀 Facial Emotion Classification *(Repo Coming Soon)*  
+### 😀 [Facial Emotion Classification](https://github.com/sudharshan-Bathini/Facial-Emotion-Classification)  
 **Tech Stack:** Python, TensorFlow, Keras, OpenCV, CNN, NumPy, Matplotlib, Pandas  
 ✔️ Built **CNN model** to classify human emotions (happy, sad, angry, surprise, fear, disgust).  
+✔️ Applications in **Human-Computer Interaction (HCI)** & **sentiment analysis**.  
 
 ---
 
@@ -105,6 +106,7 @@
   <a href="mailto:sudharshanbathini44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/sudharshan-bathini-6371ba252"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/sudharshan-Bathini"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1znyMIjYI_FsPAmNvcm2dK2rxlQE9dZ7a/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white"></a>
 </p>  
 
 ---
