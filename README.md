@@ -97,31 +97,4 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudharshan-Bathini&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshan-Bathini&theme=radical" height="160" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharshan-Bathini&layout=compact&theme=radical" height="160"/>
-</p>  
-
----
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="mailto:sudharshanbathini44@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/sudharshan-bathini-6371ba252"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/sudharshan-Bathini"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
-  <a href="https://drive.google.com/file/d/1znyMIjYI_FsPAmNvcm2dK2rxlQE9dZ7a/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white&style=for-the-badge"></a>
-</p>  
-
----
-
-<!-- Colorful Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+## 📊 GitH
